@@ -5,7 +5,7 @@ description: How to implement SSR authentication with Appwrite
 ---
 Server-side rendering (SSR) is fully supported with Appwrite. You can use Appwrite with many SSR-oriented frameworks, such as Next.js, SvelteKit, Nuxt, Gatsby, Remix, and more.
 
-SSR is a technique where the server renders a web page and sending the fully rendered page to the client's web browser. This is in contrast to client-side rendering (CSR), where the client's web browser renders the page using JavaScript.
+SSR is a technique where the server renders a web page and sends the fully rendered page to the client's web browser. This is in contrast to client-side rendering (CSR), where the client's web browser renders the page using JavaScript.
 
 This guide will walk you through the process of implementing an SSR application with Appwrite.
 
